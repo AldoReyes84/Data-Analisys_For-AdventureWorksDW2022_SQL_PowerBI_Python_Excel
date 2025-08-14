@@ -1,0 +1,1 @@
+# Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel
