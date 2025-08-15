@@ -22,11 +22,11 @@ And a corresponding rise in **Sales Amount**:
 
 <img width="590" height="349" alt="image" src="https://github.com/user-attachments/assets/53ae2a7a-6722-4f94-a153-3e3f175bcff6" />
 
-The same goes for the Product Cost.
+The same goes for the **Product Cost**.
 
 <img width="610" height="339" alt="image" src="https://github.com/user-attachments/assets/90aad656-bd2f-44f5-8c3c-df7b096163ed" />
 
-Which leads to negative Margins
+Which leads to negative **Margins**
 
 <img width="520" height="351" alt="image" src="https://github.com/user-attachments/assets/d1b174a4-42af-4b50-9feb-e098a33b49e0" />
 
