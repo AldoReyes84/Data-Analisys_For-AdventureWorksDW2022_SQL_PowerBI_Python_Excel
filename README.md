@@ -12,7 +12,9 @@ Which are:
 ## [Python SQL & Pandas Data Analysis](https://github.com/AldoReyes84/Python_Pandas_Data_Analysis)
 ## [Excel Data Analysis connect to SQL Server](https://github.com/AldoReyes84/Excel_SQL_Server_AdventureWorks_Data_Analysis)
 
-In all cases, we have the same information, 
+## FactResellersSales table
+
+In all cases, we have the same information and results 
 
 Even though the Sales Quantity has increased in the last year, 
 
