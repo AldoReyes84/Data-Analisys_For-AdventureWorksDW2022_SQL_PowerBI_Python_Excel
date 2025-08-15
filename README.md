@@ -1,6 +1,7 @@
 Go back to [Aldo Reyes Portfolio](https://aldoreyes84.github.io/AldoReyes.github.io/)
 
-# Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel
+# Data-Analisys For AdventureWorksDW2022 
+Using SQL PowerBI Python and Excel
 
 This Project will perform the Data Analysis Process for the SQL Server AdventureWorks 2022 Database in four diferrent platforms
 
