@@ -36,4 +36,4 @@ We will take a deeper dive into **Products** and **Resellers** to see which prod
 
 **Insight:** Such **margin erosion** is typically unsustainable unless part of a **strategic initiative** such as **increasing market presence** or **expanding customer base**.
 
-Additionally, the company operates an **Internet Sales** channel, which may be subsidizing reseller losses. This possibility will be explored in the next phase of the analysis
+Additionally, the **company** operates an **Internet Sales** channel, which may be **subsidizing reseller losses**. This possibility will be explored in the next phase of the analysis
