@@ -32,6 +32,11 @@ Which leads to negative **Margins**
 
 <img width="473" height="359" alt="image" src="https://github.com/user-attachments/assets/60716338-9aaa-4d1b-a6e8-56b92cabd50d" />
 
+Do to this dicrease in margins we also can see discounts increments a lot in 2013
+
+<img width="526" height="328" alt="image" src="https://github.com/user-attachments/assets/1ab27866-f7b2-4141-b54a-a2a7b184fe1c" />
+
+
 We will take a deeper dive into **Products** and **Resellers** to see which products are bringing the most negative margins.
 
 **Insight:** Such **margin erosion** is typically unsustainable unless part of a **strategic initiative** such as **increasing market presence** or **expanding customer base**.
