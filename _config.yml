@@ -3,13 +3,15 @@ logo: Assets/Images/logo_github_photo.png
 #descrition:
 #sho_download: true
 
+
 nav:
   - Inicio: index.md
   - Análisis:
       - Resellers: resellers.md
       - Internet Sales: internet_sales.md
   - Hoja de Balance: balance_sheet.md
-  - GitHub: Go back to [Aldo Reyes Portfolio](https://aldoreyes84.github.io/AldoReyes.github.io/)
+  - GitHub: https://github.com/aldoan84/main
+
 
 
 
