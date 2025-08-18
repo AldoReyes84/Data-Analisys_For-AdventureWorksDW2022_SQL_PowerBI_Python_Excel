@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{ site.title }}</title>
+</head>
+<body>
+  {% if site.menu %}
+  <nav>
+    <ul>
+      {% for item in site.menu %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+  {{ content }}
+</body>
+</html>
