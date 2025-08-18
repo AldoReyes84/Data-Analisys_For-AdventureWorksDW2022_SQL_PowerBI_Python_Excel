@@ -1,4 +1,4 @@
-Title: Aldo Reyes
+title: Aldo Reyes
 logo: Assets/Images/logo_github_photo.png
 #descrition:
 #sho_download: true
@@ -15,5 +15,5 @@ menu:
     url: https://aldoreyes84.github.io/SQL_Server_AdventureWorks/
 
 
-
-theme: jekyll-theme-minimal
+layout: default
+#theme: jekyll-theme-minimal
