@@ -4,14 +4,15 @@ logo: Assets/Images/logo_github_photo.png
 #sho_download: true
 
 
-nav:
-  - Inicio: index.md
-  - Análisis:
-      - Resellers: resellers.md
-      - Internet Sales: internet_sales.md
-  - Hoja de Balance: balance_sheet.md
-  - GitHub: https://github.com/aldoan84/main
-
+menu:
+  - title: Profile
+    url: https://aldoreyes84.github.io/AldoReyes.github.io/
+  - title: Projects
+    url: /about/
+  - title: Data Analysis
+    url: https://aldoreyes84.github.io/Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel/
+  - title: SQL Server
+    url: https://aldoreyes84.github.io/SQL_Server_AdventureWorks/
 
 
 
