@@ -3,9 +3,9 @@ body {
   padding: 0;
 }
 
-section {
+.section {
 	display: flex;
-	flex direction: column;
+	flex-direction: column;
 }
 
 h1 {
@@ -36,7 +36,7 @@ h1 {
 }
 
 .url{
- font-size: 3px
+ font-size: 1.5em
 }
 
 
