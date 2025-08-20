@@ -2,6 +2,14 @@ Title: Aldo Reyes
 logo: ASSETS/images/Logo Github Photo.png
 #descrition:
 #sho_download: true
-documentation_url: "https://github.com/AldoReyes84/Data_Analisys_For_AdventureWorksDW2022"
+menu:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Contact"
+    url: "/contact/"
 
 theme: jekyll-theme-minimal
