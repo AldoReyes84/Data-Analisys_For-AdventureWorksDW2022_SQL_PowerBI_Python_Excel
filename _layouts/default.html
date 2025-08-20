@@ -9,13 +9,13 @@
   </head>
   <body>
     <div class="wrapper">
-    <header>
+      <div class="main-layout">
+      <aside class="sidebar">
+      <header>
       <h1> 
       <a href="https://aldoreyes84.github.io/AldoReyes.github.io/">AldoReyes.github.io</a>
       </h1>
-      <div class="main-layout">
-      <aside class="sidebar">
-      {% if site.logo %}
+        {% if site.logo %}
         <img src="{{ site.logo }}" alt="logo" class="site-logo">
       {% endif %}
       <h1>{{ site.title }}</h1>
@@ -26,18 +26,18 @@
           {% endfor %}
         </ul>
       </nav>
-      </aside>
-    </div>
     </header>
-   <section>
+    </aside>
+ <aside class="readme">
+        <section>
         <div class="content">
-    <aside class="readme">
     <main class="main-content">
       {{ content }}
     </main>
-        </aside>     
-    </div>
+        </div>
     </section> 
+     </aside> 
+      </div>
     </div>    
   </body>
 </html>
