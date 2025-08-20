@@ -8,6 +8,7 @@
     <!-- Add any other CSS or meta tags you need -->
   </head>
   <body>
+    <section>
   <div class="main-layout">
     <aside class="sidebar">
       {% if site.logo %}
@@ -21,10 +22,13 @@
           {% endfor %}
         </ul>
       </nav>
+      <div>
+        <div>
     </aside>
     <main class="main-content">
       {{ content }}
     </main>
   </div>
+ </section>      
 </body>
 </html>
