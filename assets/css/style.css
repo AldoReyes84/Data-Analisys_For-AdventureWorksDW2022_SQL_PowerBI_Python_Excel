@@ -75,7 +75,6 @@ h1 {
 .sidebar {
   flex: 0 0 250px;
   background: #ffffff;
-  border-right: 1px solid #eee;
   padding: 2em 1em;
   text-align: center;
   min-height: 100vh;
