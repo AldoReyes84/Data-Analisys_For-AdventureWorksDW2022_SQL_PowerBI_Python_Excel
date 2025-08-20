@@ -3,13 +3,13 @@ logo: assets/images/Logo Github Photo.png
 #descrition:
 #sho_download: true
 menu:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Contact"
-    url: "/contact/"
+  - title: "SQL Server Data Analysis"
+    url: "https://aldoreyes84.github.io/SQL_Server_AdventureWorks/"
+  - title: "Power BI Data Analysis"
+    url: "https://github.com/AldoReyes84/Power_BI_AdventureWorks2022_Data_Analysis/"
+  - title: "Python/Pandas Data Analysis"
+    url: "https://github.com/AldoReyes84/Python_Pandas_Data_Analysis/"
+  - title: "Excel Data Analysis connect to SQL Server"
+    url: "https://github.com/AldoReyes84/Excel_SQL_Server_AdventureWorks_Data_Analysis/"
 
 
