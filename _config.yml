@@ -2,4 +2,8 @@ Title: Aldo Reyes
 logo: ASSETS/images/Logo Github Photo.png
 #descrition:
 #sho_download: true
+layout: page
+Title: SQL Server
+permalink: https://github.com/AldoReyes84/SQL_Server_AdventureWorks
+
 theme: jekyll-theme-minimal
