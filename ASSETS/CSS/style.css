@@ -9,21 +9,21 @@
 
 .main-layout {
   display: flex;
-  flex-direction: row;
-  align-items: flex-start;
+  min-height: 100vh;
 }
 
-/* Left: Content */
-.left-content {
-  flex: 2;
-  padding: 2em;
+/* Sidebar on the left */
+.sidebar {
+  flex: 0 0 300px;
+  background: #f9f9f9;
+  border-right: 1px solid #eee;
+  padding: 2em 1em;
+  text-align: center;
+  min-height: 100vh;
 }
 
-/* Right: Sidebar (title, logo, menu) */
-.right-sidebar {
+/* Main content on the right */
+.main-content {
   flex: 1;
   padding: 2em;
-  background: #f9f9f9;
-  border-left: 1px solid #eee;
-  text-align: center;
 }
