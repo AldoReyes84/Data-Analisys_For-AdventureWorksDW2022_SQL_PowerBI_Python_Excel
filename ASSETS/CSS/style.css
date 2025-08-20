@@ -1,15 +1,11 @@
-	.site-logo {
-  width: 100px;         /* Adjust as needed */
-  height: 100px;
-  object-fit: cover;
-  border-radius: 50%;
-  display: block;
-  margin: 0 auto 1em auto;
-}
-
 body {
   margin: 0;
   padding: 0;
+}
+
+section {
+	display: flex;
+	flex direction: column;
 }
 
 h1 {
@@ -35,4 +31,12 @@ h1 {
 .main-content {
   flex: 1;
   padding: 2em;
+}
+	.site-logo {
+  width: 100px;         /* Adjust as needed */
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 1em auto;
 }
