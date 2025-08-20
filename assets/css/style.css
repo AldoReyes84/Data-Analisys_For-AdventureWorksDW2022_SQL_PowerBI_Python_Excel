@@ -2,6 +2,11 @@ body {
   margin: 0;
   padding: 0;
 }
+.wrapper {
+	width: 860px;
+	margin: 0 auto
+}
+
 
 .section {
 	display: flex;
