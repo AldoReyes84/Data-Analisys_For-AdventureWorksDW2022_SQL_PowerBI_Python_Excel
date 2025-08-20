@@ -8,14 +8,14 @@
     <!-- Add any other CSS or meta tags you need -->
   </head>
   <body>
-    <nav class="site-menu">
+    <div class="container">
+       <nav class="site-menu">
         <ul>
           {% for item in site.menu %}
             <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
           {% endfor %}
         </ul>
       </nav>
-    <div class="container">
       {% if site.logo %}
         <img src="{{ site.logo }}" alt="logo" class="site-logo">
       {% endif %}
