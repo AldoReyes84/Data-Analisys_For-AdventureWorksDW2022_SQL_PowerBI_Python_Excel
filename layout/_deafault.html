@@ -9,6 +9,13 @@
   </head>
   <body>
     <div class="container">
+      <nav class="site-menu">
+        <ul>
+          {% for item in site.menu %}
+            <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
       {% if site.logo %}
         <img src="{{ site.logo }}" alt="logo" class="site-logo">
       {% endif %}
