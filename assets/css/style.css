@@ -93,7 +93,7 @@ h1 {
   object-fit: cover;
   border-radius: 50%;
   display: block;
-  margin: 0 auto 1em auto;
+  /*margin: 0 auto 1em auto;*/
 }
 
 .url{
