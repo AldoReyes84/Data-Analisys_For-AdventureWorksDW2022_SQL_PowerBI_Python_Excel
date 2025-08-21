@@ -6,14 +6,6 @@ body {
     font-weight: 400
 }
 
-.sidebar {
-  flex: 0 0 250px;
-  float: left;
-  background: #ffffff;
-  padding: 2em 1em;
-  min-height: 100vh;
-}
-
 header {
 	width: 300px;
 	float: left;
@@ -84,7 +76,7 @@ a:hover small {
 }
 
 
-.section {
+section {
 	width: 500px;
 	float: right;
 	padding-bottom: 50px; 
