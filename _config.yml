@@ -4,7 +4,7 @@ logo: assets/images/Logo Github Photo.png
 #sho_download: true
 menu:
   - title: "FactResellersSales table"
-    url: "## FactResellersSales table"
+    url: "https://github.com/AldoReyes84/Data-Analisys_For-AdventureWorksDW2022_SQL_PowerBI_Python_Excel/tree/main#factresellerssales-table"
   - title: "FactInternetSales table"
     url: "## FactInternetSales table"
   - title: "FactFinance table"
