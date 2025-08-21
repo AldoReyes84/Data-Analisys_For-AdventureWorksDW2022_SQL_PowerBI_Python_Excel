@@ -148,6 +148,11 @@ h1 {
         position: static;
         width: auto
     }
+	aside.sidebar,aside.readme{
+		float: none;
+		position static;
+		width: auto
+	}
 	
     header {
         padding-right: 320px
@@ -175,7 +180,7 @@ h1 {
         padding: 0
     }
 
-    header ul,header p.view {
+    header p.view {
         position: static
     }
 
