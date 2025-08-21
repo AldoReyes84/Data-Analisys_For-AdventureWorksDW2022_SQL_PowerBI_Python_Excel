@@ -61,6 +61,12 @@ a:hover,a:focus {
     font-weight: bold
 }
 
+h:hover,h:focus{
+	color: #069;
+    font-weight: bold
+}
+
+
 a small {
     font-size: 11px;
     color: #777;
