@@ -88,8 +88,8 @@ h1 {
   min-height: 100vh;
 }
 	.site-logo {
-  width: 270px;         /* Adjust as needed */
-  height: 275px;
+  width: 200px;         /* Adjust as needed */
+  height: 205px;
   object-fit: cover;
   border-radius: 50%;
   display: block;
