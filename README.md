@@ -1,14 +1,7 @@
-Go back to [Aldo Reyes Protfolio](https://aldoreyes84.github.io/AldoReyes.github.io/)
 
 # Data Analisys For AdventureWorksDW2022 
 
-
 This project presents a complete data analysis workflow using the AdventureWorksDW2022 database across four platforms:
-
-## [SQL Server Data Analysis](https://github.com/AldoReyes84/SQL_Server_AdventureWorks)
-## [Power BI Data Analysis](https://github.com/AldoReyes84/Power_BI_AdventureWorks2022_Data_Analysis)
-## [Python/Pandas Data Analysis](https://github.com/AldoReyes84/Python_Pandas_Data_Analysis)
-## [Excel Data Analysis connect to SQL Server](https://github.com/AldoReyes84/Excel_SQL_Server_AdventureWorks_Data_Analysis)
 
 ## FactResellersSales table
 
